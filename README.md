@@ -20,7 +20,7 @@ I'm a passionate software developer who loves building things for the web.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <details>
-<summary>School projects</summary>
+<summary><strong>School projects</strong></summary>
 
 
 | **Project** | **Description** | **Knowledge acquired** |
