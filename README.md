@@ -54,7 +54,7 @@ I'm a passionate software developer who loves building things for the web.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=0x00-A&show_icons=true&theme=dracula)
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdelatif-igounad)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelatif-igounad/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/abdelatif__)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdellatifigounad@gmail.com)
 
