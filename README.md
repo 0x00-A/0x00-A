@@ -55,5 +55,5 @@ I'm a passionate software developer who loves building things for the web.
 <a width="80%" href="https://wakatime.com/@018d8ae7-4e6a-4f42-9aa7-97a9b83031b2"><img src="https://wakatime.com/badge/user/018d8ae7-4e6a-4f42-9aa7-97a9b83031b2.svg" alt="Total time coded since Feb 8 2024" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x00-a&label=Profile%20views&color=0e75b6&style=flat" alt="0x00-a" /> </p>
----
-⭐️ From [0x00-A](https://github.com/0x00-A)
+
+⭐️ From 0x00-A
