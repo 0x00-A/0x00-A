@@ -42,21 +42,18 @@ I'm a passionate software developer who loves building things for the web.
 
 </details>
 
-<br>
-<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=0x00a&layout=compact&theme=dark">
-<br>
-
-<a width="80%" href="https://wakatime.com/@018d8ae7-4e6a-4f42-9aa7-97a9b83031b2"><img src="https://wakatime.com/badge/user/018d8ae7-4e6a-4f42-9aa7-97a9b83031b2.svg" alt="Total time coded since Feb 8 2024" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x00-a&label=Profile%20views&color=0e75b6&style=flat" alt="0x00-a" /> </p>
-
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=0x00-A&show_icons=true&theme=dracula)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x00-A&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelatif-igounad/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/abdelatif__)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdellatifigounad@gmail.com)
 
+<a width="80%" href="https://wakatime.com/@018d8ae7-4e6a-4f42-9aa7-97a9b83031b2"><img src="https://wakatime.com/badge/user/018d8ae7-4e6a-4f42-9aa7-97a9b83031b2.svg" alt="Total time coded since Feb 8 2024" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x00-a&label=Profile%20views&color=0e75b6&style=flat" alt="0x00-a" /> </p>
 ---
 ⭐️ From [0x00-A](https://github.com/0x00-A)
